@@ -39,4 +39,5 @@ For repository organization, Git/GitHub usage, data management, and contribution
 For questions about repository access, organization, GitHub usage, or computational workflows, please contact one of the organization administrators.
 
 - **Tahila Andrighetti** - Postdoctoral Researcher/Bioinformatician - tahila@unicamp.br
+- **Prof. Marco Aurelio Ramirez Vinolo** - Principal Investigador (PI) - mvinolo@unicamp.br
 - **Renato Augusto Corrêa dos Santos** - Postdoctoral Researcher/Bioinformatician - renatoacsantos@gmail.com
