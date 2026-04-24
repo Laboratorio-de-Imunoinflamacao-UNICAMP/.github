@@ -40,4 +40,4 @@ For questions about repository access, organization, GitHub usage, or computatio
 
 - **Tahila Andrighetti** - Postdoctoral Researcher/Bioinformatician - tahila@unicamp.br
 - **Prof. Marco Aurelio Ramirez Vinolo** - Principal Investigador (PI) - mvinolo@unicamp.br
-- **Renato Augusto Corrêa dos Santos** - Postdoctoral Researcher/Bioinformatician - renatoacsantos@gmail.com
+- **Renato Augusto Corrêa dos Santos** - Postdoctoral Researcher/Bioinformatician - renatoacsantos@gmail.com [@SantosRAC](https://github.com/SantosRAC)
